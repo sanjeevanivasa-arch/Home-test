@@ -1,4 +1,4 @@
-Home-test/demo.gif
+./Home-test/demo.gif
 
 # Twitch Web Automation Testing
 
