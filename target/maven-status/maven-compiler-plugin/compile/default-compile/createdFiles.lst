@@ -1,0 +1,8 @@
+com\automation\base\BasePage.class
+com\automation\utils\ScreenshotUtils.class
+com\automation\pages\HomePage.class
+com\automation\utils\ScrollUtils.class
+com\automation\pages\HomePageLocators.class
+com\automation\utils\WaitUtils.class
+com\automation\pages\SearchPageLocators.class
+com\automation\pages\SearchPage.class

@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="TwitchAutomationSuite">
+
+    <test name="TwitchTest">
+
+        <classes>
+            <class name="com.automation.tests.TwitchTest"/>
+        </classes>
+
+    </test>
+
+</suite>
