@@ -1,3 +1,5 @@
+Home-test/demo.gif
+
 # Twitch Web Automation Testing
 
 This project automates a user scenario on the Twitch website using Selenium WebDriver, Java, TestNG, and Maven. The automation searches for StarCraft II streams, scrolls through the results, opens a stream, and captures a screenshot.
