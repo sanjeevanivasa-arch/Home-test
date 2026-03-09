@@ -1,4 +1,4 @@
-./Home-test/demo.gif
+![demo](https://github.com/user-attachments/assets/84f14b1b-18fd-4e16-b0c7-133a2e00c229)
 
 # Twitch Web Automation Testing
 
